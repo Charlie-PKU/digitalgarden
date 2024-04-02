@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/RA_3E/IAM_Study/Meeting_1.12/","noteIcon":"","created":"2024-01-26T20:12:27.331+08:00","updated":"2024-04-03T00:40:43.557+08:00"}
+{"dg-publish":true,"permalink":"/RA_3E/IAM_Study/Meeting_1.12/","noteIcon":"","created":"2024-01-26T20:12:27.331+08:00","updated":"2024-04-03T00:41:30.767+08:00"}
 ---
 
+https://660c2fe1b342c845484dad91--inquisitive-lokum-d6efdd.netlify.app/RA_3E/IAM_Study/Meeting_1.12/
 
 ![](/img/user/RA_3E/IAM_Study/pictures/Pasted image 20230112214224.png)
 
