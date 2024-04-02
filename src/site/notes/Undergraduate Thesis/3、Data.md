@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Undergraduate Thesis/3、Data/"}
 ---
 
+https://660c2fe1b342c845484dad91--inquisitive-lokum-d6efdd.netlify.app/Undergraduate Thesis/3、Data/
 ## 企业注册数据库（息晨）
 
 来自“马克数据网”爬取的数据——接近2亿条数据！
