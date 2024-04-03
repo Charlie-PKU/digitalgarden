@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/RA_3E/IAM_Study/Meeting_1.12/","noteIcon":"","created":"2024-01-26T20:12:27.331+08:00","updated":"2024-04-03T13:44:46.104+08:00"}
+{"dg-publish":true,"permalink":"/RA_3E/IAM_Study/Meeting_1.12/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-01-26T20:12:27.331+08:00","updated":"2024-04-03T13:44:46.104+08:00"}
 ---
 
 
